@@ -1,5 +1,5 @@
 <template lang="pug">
-.container.mt-5
+.container
 	img(src="../assets/hammer-sickle.svg" width="150px")
 	h1 {{ msg }}
 	h2 Bootstrap Material Design

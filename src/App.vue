@@ -5,9 +5,7 @@
 			.navbar.navbar-light.bg-faded
 				button.navbar-toggler(type='button', data-toggle='drawer', data-target='#dw-s2')
 					span.sr-only Toggle drawer
-
 					i.material-icons menu
-
 				ul.nav.navbar-nav
 					li.nav-item.dignity.mr-5(style="font-size: 20px")
 						i.fa.fa-gears.fa-2x.mr-3
