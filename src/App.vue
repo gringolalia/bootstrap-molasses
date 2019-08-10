@@ -8,7 +8,7 @@
 					i.material-icons menu
 				ul.nav.navbar-nav
 					li.nav-item.dignity.mr-5(style="font-size: 20px")
-						i.fa.fa-gears.fa-2x.mr-3
+						i.fas.fa-sun.fa-2x.mr-3
 						| Engenho Novo LLC
 
 		#dw-s2.bmd-layout-drawer.bg-faded

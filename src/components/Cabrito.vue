@@ -2,8 +2,8 @@
 .container
 	img(src="../assets/hammer-sickle.svg" width="150px")
 	h1 {{ msg }}
-	h2 Bootstrap Material Design
-	h4 With Vueter Router to Booter
+	h2 Ai Conflito
+	h4 O Velho Cabrito de São Benedito
 
 	button.btn.btn-secondary.btn-lg.active.mt-5.mr-3.dignity
 		i.fa.fa-street-view.fa-2x.mr-2
